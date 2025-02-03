@@ -75,8 +75,8 @@ O servidor será iniciado em `http://localhost:3000`.
 ### 🔹 Deletar um post
 `DELETE /api/v1/blog/posts/:id`
 
-## Project URL
-(https://restful-blog-api-91ao.onrender.com/).
+## project URL
+https://restful-blog-api-91ao.onrender.com/
 
 ## 🎯 Melhorias Futuras
 - 🔐 Implementação de autenticação e autorização
