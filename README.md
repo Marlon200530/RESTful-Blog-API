@@ -78,7 +78,7 @@ O servidor será iniciado em `http://localhost:3000`.
 ## API URL DEPLOYED
 https://restful-blog-api-91ao.onrender.com/
 
-## project URL
+## Project URL
 https://roadmap.sh/projects/blogging-platform-api
 
 ## 🎯 Melhorias Futuras
