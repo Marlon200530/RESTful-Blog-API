@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "title": "My Second Blog Post",
+    "content": "This is the content of my first blog post.",
+    "category": "Technology",
+    "author": "Marlon S. Nhantumbo",
+    "tags": ["Tech", "Programming"],
+    "createdAt": "2025-02-03T14:34:13.198Z",
+    "updateAt": "2025-02-03T14:34:13.198Z"
+  },
+  {
+    "id": 3,
+    "title": "My Second Blog Post",
+    "content": "This is the content of my first blog post.",
+    "category": "Technology",
+    "author": "Marlon S. Nhantumbo",
+    "tags": ["Tech", "Programming"],
+    "createdAt": "2025-02-03T14:35:24.268Z",
+    "updateAt": "2025-02-03T14:35:24.268Z"
+  },
+  {
+    "id": 4,
+    "author": "Alice Johnson Biden",
+    "title": "Exploring the Cosmos",
+    "content": "The vastness of the universe continues to astound scientists and enthusiasts alike.",
+    "category": "Space Exploration",
+    "tags": ["Space", "Astronomy", "Exploration"],
+    "createdAt": "2025-02-03T15:39:54.062Z",
+    "updateAt": "2025-02-03T17:17:28.453Z"
+  }
+]
