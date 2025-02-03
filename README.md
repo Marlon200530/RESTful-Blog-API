@@ -75,6 +75,9 @@ O servidor será iniciado em `http://localhost:3000`.
 ### 🔹 Deletar um post
 `DELETE /api/v1/blog/posts/:id`
 
+## URL DA API
+[BLOG API] (https://restful-blog-api-91ao.onrender.com/).
+
 ## 🎯 Melhorias Futuras
 - 🔐 Implementação de autenticação e autorização
 - 🗃️ Uso de um banco de dados como MongoDB ou PostgreSQL
