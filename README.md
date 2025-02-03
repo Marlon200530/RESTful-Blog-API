@@ -33,7 +33,7 @@ Uma API RESTful para gerenciar postagens de blog, construída com Node.js e Expr
 
 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/blog-api.git
+git clone https://github.com/Marlon200530/RESTful-Blog-API
 cd blog-api
 ```
 
